@@ -60,6 +60,7 @@ print("-" * 30)
 input("Press enter key to exit the program...\n")
 ```
 ### Figure1
-!.[Results of figure 1].(/doc/output_7.png "Results of figure 1")
+!.[Results of figure 1].(htpp://hteye.github.io/IntroToProg-Python-Mod07/output_7.png "Results of figure 1")
+
 ### figure 1. The results of figure 1
 
