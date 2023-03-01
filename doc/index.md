@@ -61,3 +61,4 @@ input("Press enter key to exit the program...\n")
 ```
 ### Figure1
 !.[Results of figure 1].(https://github.com/hteye/IntroToProg-Python-Mod07/blob/main/doc/output_7.png "Results of figure 1")
+
